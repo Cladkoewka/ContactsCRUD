@@ -1,0 +1,17 @@
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\bin\Debug\net8.0\Contacts.Persistence.deps.json
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\bin\Debug\net8.0\Contacts.Persistence.runtimeconfig.json
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\bin\Debug\net8.0\Contacts.Persistence.dll
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\bin\Debug\net8.0\Contacts.Persistence.pdb
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\bin\Debug\net8.0\Contacts.Domain.dll
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\bin\Debug\net8.0\Contacts.Domain.pdb
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\obj\Debug\net8.0\Contacts.Persistence.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\obj\Debug\net8.0\Contacts.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\obj\Debug\net8.0\Contacts.Persistence.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\obj\Debug\net8.0\Contacts.Persistence.AssemblyInfo.cs
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\obj\Debug\net8.0\Contacts.Persistence.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\obj\Debug\net8.0\Contacts.961D2825.Up2Date
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\obj\Debug\net8.0\Contacts.Persistence.dll
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\obj\Debug\net8.0\refint\Contacts.Persistence.dll
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\obj\Debug\net8.0\Contacts.Persistence.pdb
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\obj\Debug\net8.0\Contacts.Persistence.genruntimeconfig.cache
+C:\ITProjects\.Net\Contacts\Contacts.Persistence\obj\Debug\net8.0\ref\Contacts.Persistence.dll

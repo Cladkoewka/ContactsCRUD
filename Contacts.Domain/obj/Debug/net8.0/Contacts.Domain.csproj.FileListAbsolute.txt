@@ -1,0 +1,14 @@
+C:\ITProjects\.Net\Contacts\Contacts.Domain\bin\Debug\net8.0\Contacts.Domain.deps.json
+C:\ITProjects\.Net\Contacts\Contacts.Domain\bin\Debug\net8.0\Contacts.Domain.runtimeconfig.json
+C:\ITProjects\.Net\Contacts\Contacts.Domain\bin\Debug\net8.0\Contacts.Domain.dll
+C:\ITProjects\.Net\Contacts\Contacts.Domain\bin\Debug\net8.0\Contacts.Domain.pdb
+C:\ITProjects\.Net\Contacts\Contacts.Domain\obj\Debug\net8.0\Contacts.Domain.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\Contacts\Contacts.Domain\obj\Debug\net8.0\Contacts.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\Contacts\Contacts.Domain\obj\Debug\net8.0\Contacts.Domain.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\Contacts\Contacts.Domain\obj\Debug\net8.0\Contacts.Domain.AssemblyInfo.cs
+C:\ITProjects\.Net\Contacts\Contacts.Domain\obj\Debug\net8.0\Contacts.Domain.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\Contacts\Contacts.Domain\obj\Debug\net8.0\Contacts.Domain.dll
+C:\ITProjects\.Net\Contacts\Contacts.Domain\obj\Debug\net8.0\refint\Contacts.Domain.dll
+C:\ITProjects\.Net\Contacts\Contacts.Domain\obj\Debug\net8.0\Contacts.Domain.pdb
+C:\ITProjects\.Net\Contacts\Contacts.Domain\obj\Debug\net8.0\Contacts.Domain.genruntimeconfig.cache
+C:\ITProjects\.Net\Contacts\Contacts.Domain\obj\Debug\net8.0\ref\Contacts.Domain.dll

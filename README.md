@@ -1,7 +1,3 @@
-Sure! Here’s the GitHub project description in English:
-
----
-
 # Contact Management API
 
 ## Description
